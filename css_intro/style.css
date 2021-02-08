@@ -1,0 +1,27 @@
+h1
+{
+    color: red;
+    font-family: Arial;
+    background: Blue;
+};
+
+div{
+    font-size: 40;
+    background: rgb(255,0,250);
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 10px solid blue;
+}
+
+h4{
+    font-size: 30px;
+    background: rgb(255,50,250);
+    color: rgb(0,250,0);
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 10px solid blue;
+
+
+}
