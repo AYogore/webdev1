@@ -1,0 +1,32 @@
+header
+{
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+h1
+{
+    font-size: 30px;
+    background: rgb(255,50,250);
+    color: black;
+    padding 20px;
+    border-top: 10px solid green;
+}
+h2
+{
+    font-size: 20px;
+    background: rgb(255,50,250);
+    color: black;
+    padding: 20px;
+    border-bottom: 10px solid green;
+}
+h3{
+      background: rgb(247, 250, 155);
+}
+
+main{    
+    background: rgb(155, 239, 250);
+    }
+footer{
+      text-align: center;
+}
