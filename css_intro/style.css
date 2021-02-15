@@ -1,27 +1,32 @@
+header
+{
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
 h1
 {
-    color: red;
-    font-family: Arial;
-    background: Blue;
-};
-
-div{
-    font-size: 40;
-    background: rgb(255,0,250);
-    width: 100px;
-    height: 100px;
-    padding: 20px;
-    border: 10px solid blue;
-}
-
-h4{
     font-size: 30px;
     background: rgb(255,50,250);
-    color: rgb(0,250,0);
-    width: 100px;
-    height: 100px;
+    color: black;
+    padding 20px;
+    border-top: 10px solid green;
+}
+h2
+{
+    font-size: 20px;
+    background: rgb(255,50,250);
+    color: black;
     padding: 20px;
-    border: 10px solid blue;
+    border-bottom: 10px solid green;
+}
+h3{
+      background: rgb(247, 250, 155);
+}
 
-
+main{    
+    background: rgb(155, 239, 250);
+    }
+footer{
+      text-align: center;
 }
