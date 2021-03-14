@@ -1,0 +1,19 @@
+.subtitle {
+    background: plum;
+}
+
+.cool-text{
+    color: powderblue;
+    font-family: comic sans-serif;
+}
+
+.green-text{
+    color: green;
+}
+
+#whatever{
+    width: 200px;
+    height: 200px;
+
+    background: hotpink;
+}

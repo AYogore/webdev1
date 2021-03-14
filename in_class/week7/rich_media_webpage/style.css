@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Josefin Sans', sans-serif;;
+}
+
+.bg-video{
+    width: 100vw;
+    height: 100vw;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+header {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    font-size: 4rem;
+    color: white;
+    padding: 2em;
+    background: rgba(0,0,0,0.5);
+}
+
+main p{
+    font-size: 4rem;
+    padding: 1em;
+    color: white;  
+    background: rgba(0,0,0,0.7);
+    max-width: 800px;
+    margin: 5rem auto;
+    
+}
+
+main p:hover{
+    color: red;
+}
+
+.gallery {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.gallery img {
+    width: 20vmin;
+    height: 20vmin;
+    object-fit: cover;
+}
+

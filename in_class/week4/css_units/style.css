@@ -1,0 +1,23 @@
+.px{
+    font-size: 20px;
+}
+
+.em{
+    font-size: 2em; /*avoid using em for fonts*/
+    /*good for margins and padding*/
+}
+
+.rem{
+    color: purple;
+    font-size: 1rem; /*relative em; proportional to root size, affects ALL not just one,, good for fonts*/
+}
+
+.percent{
+    background: lightgreen;
+    width: 50%;
+}
+
+.vw{
+    background: orange;
+    width: 50vw;
+}
